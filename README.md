@@ -8,8 +8,8 @@
 **Publisher Link:** [View on ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780443247125000178)
 
 ### 📄 Download Citation Files
-- [📑 BibTeX File](./chapter%15.bib)
-- [📄 Citation & Abstract PDF](./oil%20spill%20chapter.pdf)
+- [📑 BibTeX File](./ref.bib)
+- [📄 Citation & Abstract PDF](./file.pdf)
 
 ### 🔖 Quick BibTeX Preview
 
